@@ -413,10 +413,10 @@
     <nav>
         <ul class="nav nav-pills nav-fill">
             <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="http://127.0.0.1:8000">Home</a>
+                <a class="nav-link" aria-current="page" href="http://127.0.0.1:8000">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="http://127.0.0.1:8000/p1">Pagina 1</a>
+                <a class="nav-link active" href="http://127.0.0.1:8000/p1">Pagina 1</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="http://127.0.0.1:8000/p2">Pagina 2</a>
